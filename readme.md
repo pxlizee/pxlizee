@@ -1,18 +1,18 @@
-<!-- Banner Animasi Gelombang Premium -->
+<!-- Banner Slice Diagonal Premium dengan Gradasi Navy & Emas -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,007BFF,F7DF1E,339933&height=220&section=header&text=Halo,%20Saya%20Alfarizzi!&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkle" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0:0B192C,50:1E3E62,100:0B192C&height=200&section=header&text=ALFARIZZI&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20IoT%20Enthusiast&descSize=20&descColor=FFD700&descAlignY=70" alt="Header Banner" />
 </h1>
 
-<!-- Subtitle dengan Teks Mengetik Dinamis -->
+<!-- Subtitle dengan Teks Mengetik Dinamis (Fix urlencoded '&') -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student;Full-Stack+%26+Mobile+Developer;IoT+%26+Linux+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Visitor Counter & Status Badges -->
+<!-- Visitor Counter & Status Badges (Menggunakan username pxlizeee) -->
 <p align="center">
-  <img src="https://komarev.com/normal-badge/?username=USERNAME_KAMU&color=007bff&style=flat-square&label=VISITOR+COUNT" alt="Visitor Counter" />
+  <img src="https://komarev.com/normal-badge/?username=pxlizeee&color=007bff&style=flat-square&label=VISITOR+COUNT" alt="Visitor Counter" />
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
 </p>
 
@@ -71,12 +71,12 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pxlizeee&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxlizeee&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pxlizeee&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
