@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Header Banner Dynamic & Minimalist -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:007BFF,100:2ECC71&height=180&section=header&text=pxlizee&fontSize=65&fontColor=ffffff&desc=Informatics%20Engineering%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Header Banner (Diperbaiki) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:007BFF,100:2ECC71&height=180&section=header&text=pxlizee&fontSize=65&fontColor=ffffff&desc=Informatics%20Engineering%20|%20Full-Stack%20%26%20Mobile%20Developer&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
 
-  <br />
+  <br /><br />
 
   <!-- Animated Typing Tagline -->
   <a href="https://git.io/typing-svg">
