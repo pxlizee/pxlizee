@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="Dark Mode GitHub Banner.png" width="100%" alt="pxlizee's Custom Header Banner" />
+  <img src="Icon.png" width="100%" alt="pxlizee's Custom Header Banner" />
 
   <br /><br />
 
